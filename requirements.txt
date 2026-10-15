@@ -1,0 +1,5 @@
+# pygame-ce = versao mantida do pygame (mesmo "import pygame"), com suporte ao Python 3.14
+pygame-ce>=2.5
+# opcional, so para regenerar as ilustracoes com gerar_arte.py:
+# cairosvg
+# numpy   (so para regenerar os sons com gerar_sons.py)
